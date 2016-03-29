@@ -1,0 +1,17 @@
+LIBRARY
+EXPORTS
+
+F1_Connect
+F1_Disconnect
+F1_Reset
+F1_GetStatus
+F1_Dispense
+F1_Capture
+
+F1_SetCommAddress
+F1_GetCommAddress
+
+F1_SetEntryMode
+F1_GetEntryMode
+
+F1_SetBaudRate
